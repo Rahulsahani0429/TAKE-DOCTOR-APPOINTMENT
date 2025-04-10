@@ -41,5 +41,5 @@ user authentication, and appointment management.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/doctor-appointment-booking.git
+   git clone https://github.com/Rahulsahani0429/TAKE-DOCTOR-APPOINTMENT.git
    cd doctor-appointment-booking
